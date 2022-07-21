@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "timestamp": "2022-07-21T13:35:33.186Z",
+    "credentialId": "https://digitalcredentials.github.io/samples/certificate/1fe91f0f-4c64-48c8-bfc8-7132f75776fe/",
+    "credentialSubject": "did:example:456",
+    "credentialAction": "issued",
+    "issuerDid": "did:web:ezike.io",
+    "verificationMethod": "did:web:ezike.io#z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
+    "statusListCredential": "https://ioxayo.github.io/credential-status-1/O0VFEVHEUA",
+    "statusListIndex": 3
+  }
+]
